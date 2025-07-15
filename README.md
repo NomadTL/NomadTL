@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Thiago Lima
 
-<!--
-**NomadTL/NomadTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Front-end em formação  
+📍 Lisboa, Portugal  
+📫 thiagommlima2702@gmail.com  
+🌐 [Portfólio](https://portifolio-html-css-sigma.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thiago-lima-53105a2b4)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo:
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (DOM, funções, eventos)
+- Git & GitHub
+
+---
+
+## 🚀 Projetos em destaque
+- [🎮 Jogo do Número Secreto](https://github.com/NomadTL/Jogo-do-Numero-Secreto)
+- [🛒 Carrinho de Compras](https://github.com/NomadTL/Carrinho_De_Compras)
+- [📱 Portfólio HTML/CSS](https://github.com/NomadTL/Portifolio-HTML-CSS)
+
+---
+
+💬 Estou em busca da **minha primeira oportunidade na área**, e sempre aberto a colaborar em projetos!  
