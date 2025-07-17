@@ -10,11 +10,13 @@
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
+HTML5
 
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (DOM, Eventos, Funções)  
-- Git & GitHub  
+CSS3 (Flexbox, Grid Layout)
+
+JavaScript (Manipulação do DOM, Eventos, Funções, ES6+)
+
+Git & GitHub (Controle de versão e colaboração)
 
 ---
 
